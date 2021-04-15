@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/Users/yoshiki.takada/.config/fish'
+let g:netrw_dirhist_1='/Users/yoshiki.takada/gits/AniCom/0/tmp'
